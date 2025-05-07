@@ -1,3 +1,4 @@
+![alt text](https://github.com/adavidoaiei/Flask-Python/blob/main/img.png?raw=true)
 # Student Management System
 
 A simple student management system built with Flask and SQLAlchemy that allows you to perform CRUD (Create, Read, Update, Delete) operations on student records.
