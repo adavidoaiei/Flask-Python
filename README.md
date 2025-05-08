@@ -22,8 +22,8 @@ A simple student management system built with Flask and SQLAlchemy that allows y
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/student-management-system.git
-cd student-management-system
+git clone https://github.com/adavidoaiei/Flask-Python.git
+cd Flask-Python
 ```
 
 2. Install the required dependencies:
